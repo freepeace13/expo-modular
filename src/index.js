@@ -1,5 +1,5 @@
-export { withFontsLoader } from "./components"
+export { Utils, Network, Navigation } from "./services"
+export { ThemeProvider } from "./theme"
 
-export { Utils, Theme } from "./services"
-
+export { default as Store } from "./store"
 export { default as Navigator } from "./Navigator"

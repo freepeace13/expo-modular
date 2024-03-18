@@ -1,4 +1,4 @@
-const Colors = {
+const colors = {
   light: {
     primary: "#006686",
     onPrimary: "#FFF",
@@ -43,4 +43,4 @@ const Colors = {
   },
 }
 
-export default Colors
+export { colors }
